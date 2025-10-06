@@ -23,7 +23,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 |  Date  | Lab session        |  Google Colab link |
 |----------------|--------------------|--------------------|
-| October 7               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb#scrollTo=eL9wSUdyxvXF)|
+| October 7               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64501-Topics-in-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb)|
 <!--
 | October 15               |Probability|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Probability.ipynb)|
 | October 15               |Linear algebra and linear regresion (part 1) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Linear%20algebra%20Linear%20regression%20part%201.ipynb)|
